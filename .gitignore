@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+
+/bin/
+
+.vscode/
+
+*.log
+Thumbs.db
