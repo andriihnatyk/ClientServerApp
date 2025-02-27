@@ -26,7 +26,7 @@ g++ src/client.cpp -o bin/client.exe -lws2_32
 ./bin/client.exe
 ```
 ### 🛠 Technologies Used
-C++ (Standard 11)
-WinSock2 (Windows API for Networking)
-TCP/IP Communication
-GitHub for Version Control
+- C++ (Standard 11)
+- WinSock2 (Windows API for Networking)
+- TCP/IP Communication
+- GitHub for Version Control
