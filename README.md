@@ -15,7 +15,7 @@ g++ src/main.cpp src/NetworkHandler.cpp src/Task.cpp -o bin/server.exe -lws2_32
 ```
 ### 2️⃣ **Compile the Client**
 ```bash
-g++ src/client.cpp src/ClientNetworkHandler.cpp -o bin/client.exe -lws2_32
+g++ src/client.cpp -o bin/client.exe -lws2_32
 ```
 ### 3️⃣ **Run the Server**
 ```bash
